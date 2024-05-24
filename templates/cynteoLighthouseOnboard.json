@@ -12,9 +12,9 @@
      "mspOfferDescription": {
       "type": "string",
       "metadata": {
-       "description": "Name of the Managed Service Provider offering"
+       "description": "Description of the Managed Service Provider offering"
       },
-      "defaultValue": ""
+      "defaultValue": "This is the Cynteo Azure Managed Services onboarding for subscriptions."
      },
      "uamiRGName": {
        "type": "string",
