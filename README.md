@@ -7,7 +7,7 @@ The templates shown below can be used to [onboard a customer to Azure Lighthouse
 
 Name | Description   | Auto-deploy   | Manual deploy |
 -----| ------------- |--------------- |------- 
-| Azure Lighthouse - Subscription Deployment |onboard a *subscription* | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcynteo%2FazureLighthouseOnboard%2Fmain%2Ftemplates%2FcynteoLighthouseOnboard.json) | [templates](https://github.com/MicroAgeServicesOrg/Azure-Lighthouse-Onboarding/tree/main/templates/delegated-resource-management/subscription)
+| Azure Lighthouse - Subscription Deployment |onboard a *subscription* | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcynteo%2FazureLighthouseOnboard%2Fmain%2Ftemplates%2FcynteoLighthouseOnboard.json) | 
 
 
 # How To: Onboard Cynteo Cloud Services as a Lighthouse enabled service provider
