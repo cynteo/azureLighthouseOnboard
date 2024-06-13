@@ -1,3 +1,7 @@
+
+![Asset 2-8](https://github.com/cynteo/azureLighthouseOnboard/assets/19041436/109f772a-ae8f-4cb2-a94d-0685fb7b1f9b)
+
+
 # Microsoft Azure Lighthouse
 
 Azure Lighthouse provides capabilities to perform cross-tenant management at scale.  We do this by providing you the ability to view and manage multiple customers from a single context. When you log into Azure, you can see all of your customers who you are managing through Azure Lighthouse. [Learn more](https://azure.com/lighthouse).
